@@ -1,0 +1,10 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "ts-node -r tsconfig-paths/register src/main.ts",
+  "env": {
+    "API_KEY": "b2d47b5c",
+    "DATABASE_URL": "postgres://root:root@localhost/test"
+  }
+}
