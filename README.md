@@ -1,6 +1,6 @@
 # Movie Fetcher
 
-Heroku app: `https://movie-fetcher.herokuapp.com/` (auto redirect to swagger documentation)
+Heroku app (if is stuck please w8 a little while - it's free heroku plan and after a few minutes the process will be killed so server should start it again): `https://movie-fetcher.herokuapp.com/` (auto redirect to swagger documentation)
 
 ## Requirements
 
